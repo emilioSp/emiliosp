@@ -32,8 +32,10 @@ I prefer simple solutions with clear responsibilities. I use AI with explicit ac
 - **[Pi Maestro](https://github.com/emilioSp/pi-maestro)**: a spec-driven development workflow that coordinates AI agents through a finite-state machine, with independent verification and final human review.
 - **[H2H iRacing](https://github.com/emilioSp/h2h-iracing)**: real-time racing overlays that stream simulator telemetry from a Node.js server to React through Server-Sent Events.
 - **[Node iRacing SDK](https://github.com/emilioSp/node-iracing-sdk)**: a published Node.js library for reading simulator shared memory and parsing telemetry files.
+- **[Pi Open GitHub PR](https://github.com/emilioSp/pi-open-github-pr)**: a Pi extension that inspects committed changes, generates a pull request title and description, and opens or updates the GitHub pull request.
 - **[My Weather Station](https://github.com/emilioSp/my-weather-station)**: a system that collects BLE sensor readings, stores them in PostgreSQL and displays them in a web app.
 - **[Oxlint Anti-Slop](https://github.com/emilioSp/oxlint-anti-slop)**: custom lint rules that turn coding standards into automated checks for TypeScript projects.
+- **[Just use postgres](https://github.com/emilioSp/justusepg)**: an example of a PostgreSQL-backed work queue with concurrent workers, row locking and retries.
 
 ## Elsewhere
 
